@@ -46,7 +46,7 @@ I believe in doing work with **honesty, consistency, and purpose**, and I'm pass
 - Trained deep learning models on Google Colab with GPU acceleration
 - Tools: Python, TensorFlow/Keras, OpenCV, Matplotlib, Google Colab, CNN
 
-### 🛩️ [Aircraft Engine Remaining Useful Life (CMAPSS Dataset)](https://github.com/meenakshirathod11/Aircraft-Engine-RUL-Prediction)
+### 🛩️ [Aircraft Engine Remaining Useful Life (CMAPSS Dataset)](https://github.com/meenakshirathod11/-Aircraft-Engine-Remaining-Useful-Life-CMAPSS-Dataset-)
 - Predicted remaining useful life (RUL) of aircraft engines using regression models
 - Performed feature engineering on time-series sensor data
 - Visualized degradation patterns to support predictive maintenance
