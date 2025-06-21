@@ -40,18 +40,20 @@ I believe in doing work with **honesty, consistency, and purpose**, and I'm pass
 - Evaluated model performance (accuracy, AUC)
 - Tools: Python, pandas, scikit-learn, XGBoost, matplotlib, seaborn, Jupyter, Kaggle
 
-### 🛰️ [Satellite Image Classification (Disaster Detection)](https://github.com/meenakshirathod11/Satellite-Image-Classification)
-- Classified satellite images to detect disaster-affected areas using **Convolutional Neural Networks (CNN)**
-- Applied image preprocessing and data augmentation techniques
-- Trained deep learning models on Google Colab with GPU acceleration
-- Tools: Python, TensorFlow/Keras, OpenCV, Matplotlib, Google Colab, CNN
-
 ### 🛩️ [Aircraft Engine Remaining Useful Life (CMAPSS Dataset)](https://github.com/meenakshirathod11/-Aircraft-Engine-Remaining-Useful-Life-CMAPSS-Dataset-)
 - Predicted remaining useful life (RUL) of aircraft engines using regression models
 - Performed feature engineering on time-series sensor data
 - Visualized degradation patterns to support predictive maintenance
 - Built models using Linear Regression and XGBoost
 - Tools: Python, pandas, scikit-learn, XGBoost, matplotlib, seaborn, Jupyter
+
+
+### 🛰️ [Satellite Image Classification (Disaster Detection)](https://github.com/meenakshirathod11/Satellite-Image-Classification)
+- Classified satellite images to detect disaster-affected areas using **Convolutional Neural Networks (CNN)**
+- Applied image preprocessing and data augmentation techniques
+- Trained deep learning models on Google Colab with GPU acceleration
+- Tools: Python, TensorFlow/Keras, OpenCV, Matplotlib, Google Colab, CNN
+
 
 ---
 
