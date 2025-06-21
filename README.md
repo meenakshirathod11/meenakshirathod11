@@ -41,6 +41,8 @@ I believe in doing work with **honesty, consistency, and purpose**, and I'm pass
 - Tools: Python, pandas, scikit-learn, XGBoost, matplotlib, seaborn, Jupyter, Kaggle
 
 ### 🛩️ [Aircraft Engine Remaining Useful Life (CMAPSS Dataset)](https://github.com/meenakshirathod11/-Aircraft-Engine-Remaining-Useful-Life-CMAPSS-Dataset-)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/meenakshirathod11/Aircraft-Engine-RUL-Prediction/blob/main/Aircraft_Engine_RUL_Prediction.ipynb)
+
 - Predicted remaining useful life (RUL) of aircraft engines using regression models
 - Performed feature engineering on time-series sensor data
 - Visualized degradation patterns to support predictive maintenance
