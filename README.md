@@ -15,7 +15,7 @@ I believe in doing work with **honesty, consistency, and purpose**, and I'm pass
 
 ## 🔬 Projects
 
-### 🚀 [Sentiment Analysis App](https://meenakshirathod11-sentiment-analysis.streamlit.app/)
+### 🚀 [Sentiment Analysis App](https://github.com/meenakshirathod11/sentiment-analysis-tweets)
 - Built and deployed an NLP model using **Streamlit**
 - Classified user sentiment from custom input
 - Tools: Python, scikit-learn, TextBlob, Streamlit, GitHub
